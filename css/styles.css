@@ -38,6 +38,10 @@ span {
     margin: 24px 332px 24px 0;
 }
 
+.address {
+    font-style: normal;
+}
+
 .studio {
     font-weight: 500;
     font-size: 16px;
