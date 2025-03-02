@@ -36,13 +36,6 @@ span {
 .nav:active {
     justify-content: flex-start;
     margin: 24px 332px 24px 0;
-}
-
-.address {
-    font-style: normal;
-}
-
-.studio {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -51,11 +44,6 @@ span {
     margin-right: 40px;
 }
 
-.portfolio {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    margin-right: 107px;
+.address {
+    font-style: normal;
 }
