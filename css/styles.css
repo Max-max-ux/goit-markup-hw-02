@@ -14,7 +14,7 @@ body {
     color: #4d5ae5;
 }
 
-.logo2 {
+.logo-two {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -67,7 +67,7 @@ span {
     background-color: #2e2f42;
 }
 
-.nameh1-section1 {
+.name-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -91,7 +91,7 @@ span {
     cursor: pointer;
 }
 
-.name2-section2 {
+.name_two-section-two {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -99,16 +99,16 @@ span {
     color: #2e2f42;
 }
 
-.paragraf1 {
+.paragraf {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.section3 {
+.section-three {
     background-color: #F4F4FD;
 }
 
-.name3 {
+.name-three {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -117,11 +117,11 @@ span {
     color: #2e2f42;
 }
 
-.li1 {
+.li-one {
     background-color: #FFFFFF;
 }
 
-.nameh3 {
+.name_h-three {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -129,7 +129,7 @@ span {
     color: #2e2f42;
 }
 
-.paragraf2 {
+.paragraf-two {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -144,7 +144,7 @@ span {
     color: #2e2f42;
 }
 
-.nameh3-section4 {
+.name_h-three-section-four {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -152,7 +152,7 @@ span {
     color: #2e2f42;
 }
 
-.paragraf-section4 {
+.paragraf-section-four {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -163,7 +163,7 @@ span {
     background-color: #2e2f42;
 }
 
-.logo2>.span1 {
+.logo-two>.span-one {
     color: #f4f4fd;
 }
 
